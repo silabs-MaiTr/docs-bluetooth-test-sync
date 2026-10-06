@@ -1,5 +1,7 @@
 # Bluetooth Mobile Applications
 
+15092026 
+
 These pages contain reference materials for working with Bluetooth Low Energy (BLE) mobile applications.
 
 - **[Simplicity Connect (link)](https://docs.silabs.com/mobile-apps/latest/mobile-apps-start/)**: Provides a reference for working with Simplicity Connect, a generic mobile app for testing and debugging BLE applications.

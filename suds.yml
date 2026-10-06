@@ -1,0 +1,2 @@
+# TEST FILE, MUST NOT BE SYNC (suds.yml)
+pattern: "**/suds.yml"
