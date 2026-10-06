@@ -1,6 +1,6 @@
 # Test Setup
 
-Tests were performed using Silicon Labs evaluation hardware, with each product family under test running functionally equivalent embedded test software. Interoperability against mobile phones running various versions of Android and iOS were tested corresponding to the test specifications listed below. Table below provides the details of the software that was used to execute the testing. Silicon Labs developed custom applications based on the software mentioned below to execute the test cases.
+Tests were performed using Silicon Labs evaluation hardware, with each product family under test running functionally equivalent embedded test software. Interoperability against mobile phones running various versions of Android and iOS were tested corresponding to the test specifications listed below. Table below provides the details of the software that was used to execute the testing. Silicon Labs developed custom applications based on the software mentioned below to execute the test cases. 10062026
 
 | Setup Component |Version / Board |
 |-|-|
