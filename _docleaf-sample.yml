@@ -1,0 +1,2 @@
+# TEST FILE, MUST NOT BE SYNC (_docleaf-*.yml)
+pattern: "**/_docleaf-*.yml"
