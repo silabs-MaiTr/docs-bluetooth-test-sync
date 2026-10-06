@@ -1,2 +1,4 @@
 # TEST FILE, MUST NOT BE SYNC (doc.yml)
 pattern: "**/doc.yml"
+
+content update
